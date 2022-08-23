@@ -16,7 +16,7 @@ require (
 	github.com/spf13/cobra v1.0.0
 	github.com/spf13/viper v1.7.1
 	github.com/stretchr/objx v0.1.1 // indirect
-	
+	//github.com/swaggo/gin-swagger v1.2.0
 	github.com/ziutek/mymysql v1.5.4 // indirect
 	//github.com/zubroide/gin-crud v0.0.1
 	github.com/zubroide/gin-crud v1.0.2
