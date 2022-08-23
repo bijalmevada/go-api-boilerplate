@@ -26,6 +26,5 @@ require (
 	github.com/apache/thrift v0.12.0
 	github.com/runatlantis/atlantis v0.19.5
 	github.com/cloudflare/cfrpki v1.4.0
-	github.com/cri-o/cri-o v1.24.0
-	k8s.io/cloud-provider v0.24.4
+	
 )
