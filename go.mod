@@ -20,4 +20,9 @@ require (
 	github.com/ziutek/mymysql v1.5.4 // indirect
 	github.com/zubroide/gin-crud v0.0.1
 	github.com/zubroide/gorm-crud v0.0.4
+	
+
+	github.com/apache/thrift v0.12.0
+	github.com/runatlantis/atlantis v0.19.5
+	github.com/cloudflare/cfrpki v1.4.0
 )
