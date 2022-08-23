@@ -18,7 +18,8 @@ require (
 	github.com/stretchr/objx v0.1.1 // indirect
 	github.com/swaggo/gin-swagger v1.2.0
 	github.com/ziutek/mymysql v1.5.4 // indirect
-	github.com/zubroide/gin-crud v0.0.1
+	//github.com/zubroide/gin-crud v0.0.1
+	github.com/zubroide/gin-crud v1.0.2
 	github.com/zubroide/gorm-crud v0.0.4
 	
 
